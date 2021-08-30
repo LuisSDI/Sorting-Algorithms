@@ -24,6 +24,6 @@ print(array);
 insertSort(array)
 print(array);
 toc = time.perf_counter()
-print(f"Downloaded the tutorial in {toc - tic:0.4f} seconds")
+print(f"The algorithm took {toc - tic:0.4f} seconds")
 
 
